@@ -1,0 +1,12 @@
+# Core ML / CNN dependencies
+tensorflow>=2.15.0
+keras>=3.0.0
+numpy>=1.26.0
+
+# Data loading and image processing
+pillow>=10.0.0
+kagglehub>=0.3.0
+split-folders>=0.5.1
+
+# Visualization
+matplotlib>=3.8.0
